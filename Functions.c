@@ -23,3 +23,4 @@ bool IsPalindrome(const int number_)
 	return (number_ == Reverse(number_));
 }
 
+
